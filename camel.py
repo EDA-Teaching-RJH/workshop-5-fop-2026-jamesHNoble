@@ -7,7 +7,7 @@ def main():
         else:
             nameAdd += chr
 
+
     print(nameAdd)
 
 main()
-
